@@ -19,7 +19,7 @@ const CONFIG = {
     HEO_HERO_TITLE_2: '与思维认知',
     HEO_HERO_TITLE_3: 'Fosvcat.top',
     HEO_HERO_TITLE_4: '看看好东西❤️',
-    HEO_HERO_TITLE_5: '可能是全网最细的类原生利用指南',
+    HEO_HERO_TITLE_5: '全网最细的类原生指南',
     HEO_HERO_TITLE_LINK: 'https://www.fosvcat.top/post/android',
 
   // 英雄区显示三个置顶分类
