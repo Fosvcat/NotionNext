@@ -23,7 +23,7 @@ const CONFIG = {
     HEO_HERO_TITLE_LINK: 'https://www.fosvcat.top/post/android',
 
   // 英雄区显示三个置顶分类
-    HEO_HERO_CATEGORY_1: { title: '收藏清单', url: '/collect' },
+    HEO_HERO_CATEGORY_1: { title: '收藏清单', url: '/tag/收藏' },
     HEO_HERO_CATEGORY_2: { title: '推荐阅读', url: '/tag/推荐' },
     HEO_HERO_CATEGORY_3: { title: '实用教程', url: '/tag/教程' },
 
