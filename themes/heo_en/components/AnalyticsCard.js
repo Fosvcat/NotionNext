@@ -17,25 +17,25 @@ export function AnalyticsCard(props) {
         <div className='text-md flex flex-col space-y-1 justify-center px-3'>
             <div className='inline'>
                 <div className='flex justify-between'>
-                  <div>Number of articles:</div>
+                  <div>Articles Number:</div>
                     <div>{postCount}</div>
                 </div>
             </div>
             <div className='inline'>
                 <div className='flex justify-between'>
-                  <div>The blog was created:</div>
+                  <div>Site Running:</div>
                     <div>{diffDays} Days</div>
                 </div>
             </div>
             <div className='hidden busuanzi_container_page_pv'>
                 <div className='flex justify-between'>
-                  <div>Number of requests for this page:</div>
+                  <div>Page Requests Number:</div>
                     <div className='busuanzi_value_page_pv' />
                 </div>
             </div>
             <div className='hidden busuanzi_container_site_uv'>
                 <div className='flex justify-between'>
-                  <div>Total number of site visitors:</div>
+                  <div>Site Visitors Number:</div>
                     <div className='busuanzi_value_site_uv' />
                 </div>
             </div>
